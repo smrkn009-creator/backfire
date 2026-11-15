@@ -7,3 +7,4 @@ WASD move, mouse aim, space to parry. Parry as a shot flashes for a PERFECT.
 Play it: (https://sameerkhan009.itch.io/backfire)
 
 Built in Godot 4.7.
+By: Sameer khan
